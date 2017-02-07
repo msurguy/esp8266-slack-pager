@@ -15,7 +15,7 @@ In addition, you will need to install the following Arduino libraries:
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson),
 - [ESP8266-oled-ssd1306](https://github.com/squix78/esp8266-oled-ssd1306)
 
-I used NodeMCU ESP board for this code (available for less than $10 at http://amzn.to/29v9AaZ) and SSD1306 (available for $10 at http://amzn.to/29oOgSh).
+I used NodeMCU ESP board for this code (available for less than $10 at http://amzn.to/29v9AaZ) and SSD1306 (available for $10 at http://amzn.to/2kKtu7w).
 
 TODO : 
 
