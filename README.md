@@ -15,7 +15,7 @@ In addition, you will need to install the following Arduino libraries:
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson),
 - [ESP8266-oled-ssd1306](https://github.com/squix78/esp8266-oled-ssd1306)
 
-I used NodeMCU ESP board for this code (available for less than $10 at http://amzn.to/29v9AaZ) and SSD1306 (available for $10 at http://amzn.to/2kKtu7w).
+I used NodeMCU ESP board for this code (available for less than $10 at http://amzn.to/29v9AaZ) and SSD1306 (available for $10 at http://amzn.to/2kKtu7w). You can also buy these for a lot cheaper if you can wait a couple weeks: NodeMCU for $5.26 at http://www.banggood.com/NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html?p=NR1115712752201408A0 and OLED screen for $5.49 at http://www.banggood.com/0_96-Inch-4Pin-White-IIC-I2C-OLED-Display-Module-12864-LED-For-Arduino-p-958196.html?p=NR1115712752201408A0
 
 TODO : 
 
